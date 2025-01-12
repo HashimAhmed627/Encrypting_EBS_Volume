@@ -1,4 +1,4 @@
-# Encrypting EBS Volume :
+# Encrypting EBS Volume 
 ## Objective
 
 ## Tasks Covered
